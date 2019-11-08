@@ -1,0 +1,13 @@
+{
+  "name": "poverty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "license": "MIT"
+}
