@@ -6,7 +6,7 @@ const client = new Twitch.Client({
 		secure: true
 	},
 	identity: {
-		username: "Povery",
+		username: "Poverty",
 		password: process.env.PASSWORD
 	},
 	channels: [ "BuzzReview" ]
